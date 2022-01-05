@@ -5,4 +5,6 @@
 - HTML
 - CSS
 
-[link](https://www.example.com/my%20great%20page)
+[MY PORTFOLIO](https://sanudas2018.github.io/my-portfolio/)
+
+<img src="assets/images/my-images/sanu.jpg" alt="">
