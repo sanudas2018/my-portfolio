@@ -7,4 +7,4 @@
 
 [MY PORTFOLIO](https://sanudas2018.github.io/my-portfolio/)
 
-<img src="assets/images/my-images/sanu.jpg" alt="">
+<img src="assets/images/my-images/my protfolio.png" alt="">
